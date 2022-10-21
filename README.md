@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development and some back-end too.
 - 🌱 I’m currently learning WP theme
 - 💞️ I’m looking to collaborate on lot of different projects
-- 📫 Reach me on Instagram: @designvoro
+- 📫 Reach me on Instagram: @nellyccamacho
 
 <!---
 nellyiscoding/nellyiscoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
